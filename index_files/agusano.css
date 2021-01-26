@@ -185,7 +185,7 @@ html.dark-mode .hr{
     filter: invert(100%);
 }
 
-html.dark-mode .comment-content {
+html.dark-mode .comment-content{
     filter: invert(100%);
 }
 #header {
