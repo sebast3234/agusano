@@ -188,6 +188,9 @@ html.dark-mode .hr{
 html.dark-mode .comment-content{
     filter: invert(100%);
 }
+html.dark-mode .fb-comments{
+    filter: invert(100%);
+}
 #header {
 
 				margin:-1px;
